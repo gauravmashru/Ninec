@@ -53,7 +53,7 @@
       }
       .banner::after {
       content: "";
-      background-color: purple;
+      background-color: dark green;
       position: absolute;
       width: 100%;
       height: 150%;
